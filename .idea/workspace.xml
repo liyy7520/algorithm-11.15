@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c210f7f-acf2-4ff4-b8ab-86d01a43715f" name="Default Changelist" comment="" />
+    <list default="true" id="4c210f7f-acf2-4ff4-b8ab-86d01a43715f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/algo/code/QuickSort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algo/code/QuickSort/QuickSort2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algo/code/ShellSort/ShellSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algo/com/algo/code/Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algo/com/algo/code/Array2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algo/com/algo/code/Array3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algo/com/algo/code/BubbleSort/InsertSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algo/com/algo/code/linklist/Linklist$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algo/com/algo/code/linklist/Linklist$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algo/com/algo/code/linklist/Linklist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algo/com/algo/code/linklist/Linklist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algo/code/linklist/linkedlistAlgo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algo/code/linklist/linkedlistAlgo.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,48 +66,37 @@
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.spring.boot.mvc.usages" />
     </session>
+    <session id="-1792249490">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1172" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1172" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/algo/code/BubbleSort/BubbleSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/algo/code/InsertSort/InsertSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/algo/code/stack/StackBasedByLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/algo/code/dijkstra/DijkstraAlgothrim.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/algo/code/array/Array.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -105,11 +106,57 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/algo/code/queue/QueueBasedByLickedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="586">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/algo/code/ShellSort/ShellSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="38" column="55" lean-forward="true" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/algo/code/QuickSort/QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="33" column="30" lean-forward="true" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/algo/code/linklist/linkedlistAlgo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-655">
+              <caret line="97" column="9" lean-forward="true" selection-start-line="97" selection-start-column="9" selection-end-line="97" selection-end-column="9" />
+              <folding>
+                <element signature="e#3275#3276#0" expanded="true" />
+                <element signature="e#3310#3311#0" expanded="true" />
+                <element signature="e#3343#3344#0" expanded="true" />
+                <element signature="e#3378#3379#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/algo/code/QuickSort/QuickSort2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="52" column="29" lean-forward="true" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
+              <folding>
+                <element signature="e#1820#1821#0" expanded="true" />
+                <element signature="e#1865#1866#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -127,7 +174,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/algo/code/array/Array3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="475">
-              <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+              <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -174,12 +221,15 @@
         <option value="$PROJECT_DIR$/src/com/algo/code/linklist/Linklist.java" />
         <option value="$PROJECT_DIR$/src/com/algo/code/string/AlgoString.java" />
         <option value="$PROJECT_DIR$/src/com/algo/code/linklist/LinkeList.java" />
-        <option value="$PROJECT_DIR$/src/com/algo/code/linklist/linkedlistAlgo.java" />
         <option value="$PROJECT_DIR$/src/com/algo/code/stack/StackBasedByLinkedList.java" />
         <option value="$PROJECT_DIR$/src/com/algo/code/queue/QueueBasedByLickedList.java" />
         <option value="$PROJECT_DIR$/src/com/algo/code/array/Array.java" />
         <option value="$PROJECT_DIR$/src/com/algo/code/dijkstra/DijkstraAlgothrim.java" />
         <option value="$PROJECT_DIR$/src/com/algo/code/InsertSort/InsertSort.java" />
+        <option value="$PROJECT_DIR$/src/com/algo/code/ShellSort/ShellSort.java" />
+        <option value="$PROJECT_DIR$/src/com/algo/code/QuickSort/QuickSort2.java" />
+        <option value="$PROJECT_DIR$/src/com/algo/code/QuickSort/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/com/algo/code/linklist/linkedlistAlgo.java" />
       </list>
     </option>
   </component>
@@ -213,23 +263,41 @@
         <subPane>
           <expand>
             <path>
-              <item name="algo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algo" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm-11.15" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm-11.15" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm-11.15" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm-11.15" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm-11.15" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm-11.15" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm-11.15" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm-11.15" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="linklist" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/liyy/IdeaProjects/algo/src/com/algo/code/linklist/LinkeList.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542249581703" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543761520376" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -244,7 +312,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InsertSort">
+  <component name="RunManager" selected="Application.QuickSort">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algo.code.BubbleSort.BubbleSort" />
       <module name="algo" />
@@ -271,12 +339,57 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algo.code.QuickSort.QuickSort" />
+      <module name="algo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algo.code.QuickSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algo.code.QuickSort.QuickSort2" />
+      <module name="algo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algo.code.QuickSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algo.code.ShellSort.ShellSort" />
+      <module name="algo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algo.code.ShellSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.BubbleSort" />
       <item itemvalue="Application.InsertSort" />
+      <item itemvalue="Application.ShellSort" />
+      <item itemvalue="Application.QuickSort" />
+      <item itemvalue="Application.QuickSort2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.QuickSort2" />
+        <item itemvalue="Application.ShellSort" />
         <item itemvalue="Application.InsertSort" />
         <item itemvalue="Application.BubbleSort" />
       </list>
@@ -302,16 +415,17 @@
       <workItem from="1540881943247" duration="22097000" />
       <workItem from="1541385569498" duration="9313000" />
       <workItem from="1541743316855" duration="9457000" />
+      <workItem from="1543735002686" duration="15389000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101018000" />
+    <option name="totallyTimeSpent" value="116407000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26575932" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26865673" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -320,7 +434,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.07123656" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.13217768" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -348,13 +462,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="62" column="38" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Integer.java" />
     <entry file="file://$PROJECT_DIR$/src/com/algo/code/linklist/Linklist.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -362,24 +470,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algo/code/linklist/linkedlistAlgo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/algo/code/BubbleSort/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        <state relative-caret-position="475">
+          <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algo/code/linklist/LinkeList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/algo/code/InsertSort/InsertSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1159">
-          <caret line="61" column="9" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+        <state relative-caret-position="437">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algo/code/string/AlgoString.java">
+    <entry file="file://$PROJECT_DIR$/src/com/algo/code/stack/StackBasedByLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        <state relative-caret-position="152">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algo/code/dijkstra/DijkstraAlgothrim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2394">
+          <caret line="128" selection-start-line="128" selection-end-line="128" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -400,45 +518,66 @@
     <entry file="file://$PROJECT_DIR$/src/com/algo/code/array/Array3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
-          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algo/code/BubbleSort/BubbleSort.java">
+    <entry file="file://$PROJECT_DIR$/src/com/algo/code/linklist/LinkeList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+        <state relative-caret-position="1159">
+          <caret line="61" column="9" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algo/code/InsertSort/InsertSort.java">
+    <entry file="file://$PROJECT_DIR$/src/com/algo/code/string/AlgoString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algo/code/stack/StackBasedByLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algo/code/dijkstra/DijkstraAlgothrim.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="342">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/algo/code/queue/QueueBasedByLickedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="586">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algo/code/ShellSort/ShellSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="38" column="55" lean-forward="true" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algo/code/QuickSort/QuickSort2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="52" column="29" lean-forward="true" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
+          <folding>
+            <element signature="e#1820#1821#0" expanded="true" />
+            <element signature="e#1865#1866#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algo/code/QuickSort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="33" column="30" lean-forward="true" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algo/code/linklist/linkedlistAlgo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-655">
+          <caret line="97" column="9" lean-forward="true" selection-start-line="97" selection-start-column="9" selection-end-line="97" selection-end-column="9" />
+          <folding>
+            <element signature="e#3275#3276#0" expanded="true" />
+            <element signature="e#3310#3311#0" expanded="true" />
+            <element signature="e#3343#3344#0" expanded="true" />
+            <element signature="e#3378#3379#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

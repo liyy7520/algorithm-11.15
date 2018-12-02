@@ -80,6 +80,58 @@ public class linkedlistAlgo {
         return headNode;
     }
 
+    /**
+     * 合并两个有序的链表
+     * @param l1
+     * @param l2
+     * @return
+     */
+    public static Node mergeSortLinkList(Node l1,Node l2){
+        if(l1==null) return l2;
+        if(l2==null) return l1;
+        if(l1.data<l2.data){
+            l1.next = mergeSortedList(l1.next,l2);
+            return l1;
+        }else{
+            l2.next = mergeSortedList(l1,l2.next);
+            return l2;
+        }
+    }
+
+    public Node mergeTwoLists(Node l1, Node l2) {
+        Node p=l1;
+        Node q=l2;
+
+        Node t=new Node(-1,null);
+        t.next=null;
+
+        l1=t;
+
+        while(p!=null&&q!=null){
+            if(p.data<=q.data){
+                t.next=p;
+                t=t.next;
+                p=p.next;
+            }
+            else{
+                t.next=q;
+                t=t.next;
+                q=q.next;
+            }
+
+        }
+
+        if(q==null){
+            t.next=p;
+        }
+        else{
+            t.next=q;
+        }
+
+        return l1.next;
+    }
+
+
 
     public static Node deleteByLastk(Node list, int k){
         Node fast = list;
